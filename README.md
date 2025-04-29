@@ -19,6 +19,6 @@ Bu proje, farklı iş tamamlama süresi ve bozulma ihtimaline sahip makinelerle,
 2. İş sayısı girilir.
 3. Program:
    - Bozuk olmayan makineler arasından işi en erken bitirecek olanı seçer.
-   - Rastgele bir sayı ile bozulup bozulmadığını kontrol eder.
-   - Bozulan makineler sonraki adımlarda dışlanır.
+   - Rastgele bir sayı ile bozulup bozulmadığı kontrol eder.
+   - Bozulan makineler sonraki adımlarda görmezden gelir.
 4. Tüm işler atanınca veya makinelerin tamamı bozulunca işlem tamamlanır.
